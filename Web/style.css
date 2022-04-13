@@ -8,16 +8,24 @@
     url("/Web/imagenes/menheader.png"),
     url("/Web/imagenes/fondoheader.png");
     background-size: cover;
-    background-position: center center; 
+    background-position: center 3cm; 
     background-repeat: no-repeat; 
-    background-attachment: fixed
+    
     }
     
 .glass1{
-    background: rgba(255, 255, 255, 0.048);
+    background: rgba(255, 255, 255, 0.034);
     backdrop-filter: blur( 20px );
     -webkit-backdrop-filter: blur( 20px );
 }
+
+.glassnav{
+    background: rgba(255, 255, 255, 0);
+    backdrop-filter: blur( 20px );
+    -webkit-backdrop-filter: blur( 20px );
+}
+
+
 
 #gradient{
     height: 20%;
@@ -27,11 +35,21 @@ left: 0;
 right: 0;
 bottom: 0em; 
 padding: 2em;
-font-size: 50px;
+
 display: flex;
 justify-content: center;
+}
+
+#flechita{
+    font-size: 50px;
+    color: rgb(43, 41, 41);
+    transition: 0.3s;
+}
 
 
 
+#flechita:hover{
+color: rgb(206, 209, 212);
+font-size: 60px;
 
 }
