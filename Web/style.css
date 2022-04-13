@@ -1,0 +1,18 @@
+.pruebawidth{
+    width: 40%;
+}
+
+
+.fondoheader{
+    background-image: 
+    url("/Web/imagenes/menheader.png"),
+    url("/Web/imagenes/fondoheader.png");
+    background-size: cover;
+    }
+    
+.glass1{
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(17, 25, 40, 0.75);
+    border: 1px solid rgba(255, 255, 255, 0.125);
+}
