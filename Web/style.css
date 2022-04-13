@@ -8,12 +8,13 @@
     url("/Web/imagenes/menheader.png"),
     url("/Web/imagenes/fondoheader.png");
     background-size: cover;
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed
     }
     
 .glass1{
-    background: rgba( 255, 255, 255, 0.15 );
-
-backdrop-filter: blur( 10px );
--webkit-backdrop-filter: blur( 10px );
-
+    background: rgba(255, 255, 255, 0.048);
+    backdrop-filter: blur( 20px );
+    -webkit-backdrop-filter: blur( 20px );
 }
