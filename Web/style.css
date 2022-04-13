@@ -18,3 +18,20 @@
     backdrop-filter: blur( 20px );
     -webkit-backdrop-filter: blur( 20px );
 }
+
+#gradient{
+    height: 20%;
+    background-image: linear-gradient(rgba(255, 255, 255, 0),rgb(0, 0, 0));
+    position: absolute;
+left: 0; 
+right: 0;
+bottom: 0em; 
+padding: 2em;
+font-size: 50px;
+display: flex;
+justify-content: center;
+
+
+
+
+}
