@@ -16,6 +16,12 @@ height: auto;
 
 }
 
+.cardstyle{
+    background-color: #0f161b;
+    box-shadow: 7px 7px 40px -15px #9ed1f5;
+}
+
+
 .glass1 {
   background: rgba(255, 255, 255, 0.034);
   backdrop-filter: blur(20px);
@@ -36,9 +42,17 @@ height: auto;
   right: 0;
   bottom: 0em;
   padding: 2em;
-
   display: flex;
   justify-content: center;
+}
+
+.texto1card{
+    font-size: calc(12px + 1.5vw);
+ 
+}
+
+.texto2card{
+    font-size: calc(10.5px + 0.8vw);
 }
 
 #flechita {
