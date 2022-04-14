@@ -10,17 +10,15 @@
   background-repeat: no-repeat;
 }
 
-.cardimg{
-max-width: 100%;
-height: auto;
-
+.cardimg {
+  max-width: 100%;
+  height: auto;
 }
 
-.cardstyle{
-    background-color: #0f161b;
-    box-shadow: 7px 7px 40px -15px #9ed1f5;
+.cardstyle {
+  background-color: #0f161b;
+  box-shadow: 15px 15px 24px -8px #9ed1f5;
 }
-
 
 .glass1 {
   background: rgba(255, 255, 255, 0.034);
@@ -46,13 +44,12 @@ height: auto;
   justify-content: center;
 }
 
-.texto1card{
-    font-size: calc(12px + 1.5vw);
- 
+.texto1card {
+  font-size: calc(12px + 1.5vw);
 }
 
-.texto2card{
-    font-size: calc(10.5px + 0.8vw);
+.texto2card {
+  font-size: calc(10.5px + 0.8vw);
 }
 
 #flechita {
