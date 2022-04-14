@@ -53,3 +53,85 @@ color: rgb(206, 209, 212);
 font-size: 60px;
 
 }
+
+
+/* INICIA CODIGO PARA LOGO*/
+
+.logo{
+    position: relative;
+    transform: scale(0.3);
+    left: -35px;
+    
+}
+
+.parlgrm {
+    width: 20px;
+    height: 50px;
+    transform: skew(0deg,30deg);
+    background: #025e59;
+    position: absolute;
+    }
+
+.rombo {
+    width: 22px;
+    height: 22px;
+    position: absolute;
+    transform: rotate(135deg) skew(15deg,15deg);
+    background: #025e59;
+    top: -16.5px;
+left: 8.5px;
+}
+
+.palo1{
+    position: absolute;
+    transform: rotate(119deg);
+    top: -10px;
+    left: 82px;
+}
+
+.parlgrm1 {
+    width: 20px;
+    height: 50px;
+    transform: skew(0deg,30deg);
+    background: 
+    #015c9d;
+    position: absolute;
+    }
+
+.rombo1 {
+    width: 22px;
+    height: 22px;
+    position: absolute;
+    transform: rotate(135deg) skew(15deg,15deg);
+    background: 
+    #015c9d;
+    top: -16.5px;
+left: 8.5px;
+}
+
+.palo2{
+    position: absolute;
+    transform: rotate(239deg);
+    top: 67px;
+    left: 50px;
+}
+
+.parlgrm2 {
+    width: 20px;
+    height: 50px;
+    transform: skew(0deg,30deg);
+    background: #331e2d;
+    position: absolute;
+    }
+
+.rombo2 {
+    width: 22px;
+    height: 22px;
+    position: absolute;
+    transform: rotate(135deg) skew(15deg,15deg);
+    background: #331e2d;
+    top: -16.5px;
+left: 8.5px;
+}
+
+/* FIN CODIGO PARA LOGO*/
