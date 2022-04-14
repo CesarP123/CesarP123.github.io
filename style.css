@@ -3,8 +3,8 @@
 }
 
 .fondoheader {
-  background-image: url("/Web/imagenes/menheader.png"),
-    url("/Web/imagenes/fondoheader.png");
+  background-image: url("/imagenes/menheader.png"),
+    url("/imagenes/fondoheader.png");
   background-size: cover;
   background-position: center 1cm;
   background-repeat: no-repeat;
