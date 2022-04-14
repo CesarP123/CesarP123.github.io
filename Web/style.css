@@ -74,9 +74,9 @@
 
 .palo1 {
   position: absolute;
-  transform: rotate(119deg);
+  transform: rotate(120deg);
   top: -10px;
-  left: 82px;
+  left: 84px;
 }
 
 .parlgrm1 {
@@ -99,9 +99,9 @@
 
 .palo2 {
   position: absolute;
-  transform: rotate(239deg);
-  top: 67px;
-  left: 50px;
+  transform: rotate(240deg);
+  top: 68px;
+  left: 51px;
 }
 
 .parlgrm2 {
