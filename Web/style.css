@@ -10,6 +10,12 @@
   background-repeat: no-repeat;
 }
 
+.cardimg{
+max-width: 100%;
+height: auto;
+
+}
+
 .glass1 {
   background: rgba(255, 255, 255, 0.034);
   backdrop-filter: blur(20px);
