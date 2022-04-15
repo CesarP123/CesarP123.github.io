@@ -13,6 +13,20 @@
   min-height: 100% !important;
 }
 
+@media(max-width: 720px){
+  .hide-0-to-720{
+    display:none;
+  }
+  .center-720{
+    transform: scale(1.3);
+    position:relative;
+    left: 5%;
+    top:5%;
+  }
+
+  }
+
+
 .tamaño{
 
   position: relative;
