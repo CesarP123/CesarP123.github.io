@@ -18,12 +18,19 @@
     display:none;
   }
   .center-720{
-    transform: scale(1.3);
+    transform: scale(1.6);
     position:relative;
     left: 5%;
-
   }
-
+.rompefixed{
+  position: sticky;
+	top: 0;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	min-height: 100px;
+  z-index: 1;
+}
   }
 
 
