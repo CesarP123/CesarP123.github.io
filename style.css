@@ -58,9 +58,9 @@ background-color: #0f161b;
   width: 30px;
   height: 30px;
   background:rgb(255, 255, 255);
-  -moz-border-radius: 50px;
-  -webkit-border-radius: 50px;
-  border-radius: 50px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
 }
 
 
