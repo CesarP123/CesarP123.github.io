@@ -22,7 +22,7 @@ background-color: #0f161b;
  
   bottom: 0%;
   position: fixed;
-  margin: 7%;
+  margin: 8%;
   right: 0;
   z-index: 998;
   transform: scale(2);
@@ -44,25 +44,16 @@ background-color: #0f161b;
 }
 
 
-.alinearhamburguesa{
-position: relative;
-bottom: -20%;
-left: 30%;
-
-}
-
 .imghamb{
 
-  max-height: 30px;
-  position: relative;
-left: -6px;
-bottom: 2px;
+  max-height: 25px;
+
 }
 
 
 .circle {
-  width: 40px;
-  height: 40px;
+  width: 30px;
+  height: 30px;
   background:rgb(255, 255, 255);
   -moz-border-radius: 50px;
   -webkit-border-radius: 50px;
