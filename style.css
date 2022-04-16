@@ -27,6 +27,7 @@ background-color: #0f161b;
   z-index: 998;
   transform: scale(2);
   box-shadow: 0px 0px 5px 1px #9ed1f5;
+  text-align: center;
 }
 
 #loading {
@@ -46,7 +47,8 @@ background-color: #0f161b;
 
 .imghamb{
 
-  max-height: 25px;
+  max-height: 90%;
+  
 
 }
 
