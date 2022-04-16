@@ -65,7 +65,7 @@ background-color: #0f161b;
 
 
 @media(max-width: 720px){
-  .hide-0-to-720{
+  .esconder{
     display:none;
   }
   .center-720{
@@ -163,7 +163,7 @@ position: fixed;
   right: 0;
   bottom: 0;
   padding: 2em;
-  display: flex;
+  text-align: center;
   justify-content: center;
 }
 
