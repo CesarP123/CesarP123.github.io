@@ -108,6 +108,7 @@ display: none;
   position: relative;
   height: auto;
   min-height: 100% !important;
+  z-index: 5;
 }
 
 #background-video {
@@ -166,6 +167,22 @@ position: fixed;
   text-align: center;
   justify-content: center;
 }
+
+
+.figura{
+
+  border-radius: 100% 0% 0% 0%;
+	background-color: #000000;
+
+	text-align: center;
+	width: calc(45px + 20%);
+	height: calc(30px + 15%);
+  bottom: 0%;
+  position: absolute;
+  right: 0;
+  z-index: 2;
+}
+
 
 .texto1card {
   font-size: calc(12px + 1.5vw);
