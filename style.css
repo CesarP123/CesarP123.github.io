@@ -156,7 +156,7 @@ position: fixed;
 #gradient {
   height: 20%;
   background-image: linear-gradient(rgba(255, 255, 255, 0), rgb(0, 0, 0));
-  background-image: -webkit-linear-gradient(top,rgba(255, 255, 255, 0), rgb(0, 0, 0));
+  background-image: -webkit-linear-gradient(left, red, green, blue);
   position: absolute;
   left: 0;
   right: 0;
